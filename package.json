@@ -1,6 +1,6 @@
 {
   "name": "durandal",
-  "version": "2.1.0",
+  "version": "2.2.0",
   "description": "Durandal is a cross-device, cross-platform client framework written in JavaScript and designed to make Single Page Applications (SPAs) easy to create and maintain. We've used it to build apps for PC, Mac, Linux, iOS and Android...and now it's your turn...",
   "main": "js/app.js",
   "scripts": {
@@ -25,7 +25,7 @@
   "homepage": "https://github.com/BlueSpire/Durandal-Bower#readme",
   "dependencies": {
     "jquery": "^1.9.1",
-    "knockout": "^3.1.0",
+    "knockout": "^3.4.0",
     "requirejs": "^2.1.11",
     "requirejs-text": "^2.0.12"
   }
